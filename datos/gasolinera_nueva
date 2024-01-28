@@ -1,0 +1,13 @@
+tipo:Grado medio:15000:70.0
+tipo:Corriente:12000:100.0
+tipo:Premium:20000:50.0
+tipo:Ultra:25000:50.0
+surtidor:Juan:Grado medio:0.0:Corriente:0.0:Premium:0.0:Ultra:0.0
+surtidor:Alejandro:Grado medio:0.0:Corriente:0.0:Premium:0.0:Ultra:0.0
+surtidor:Andres:Grado medio:0.0:Corriente:0.0:Premium:0.0:Ultra:0.0
+surtidor:Carlos:Grado medio:0.0:Corriente:0.0:Premium:0.0:Ultra:0.0
+empleado:Andres:0
+empleado:Alejandro:0
+empleado:Juan:0
+empleado:Carlos:0
+empleado:Julian:0
