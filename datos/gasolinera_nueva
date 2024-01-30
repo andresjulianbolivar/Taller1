@@ -1,13 +1,13 @@
-tipo:Grado medio:15000:70.0
-tipo:Corriente:12000:100.0
-tipo:Premium:20000:50.0
-tipo:Ultra:25000:50.0
-surtidor:Juan:Grado medio:0.0:Corriente:0.0:Premium:0.0:Ultra:0.0
-surtidor:Alejandro:Grado medio:0.0:Corriente:0.0:Premium:0.0:Ultra:0.0
-surtidor:Andres:Grado medio:0.0:Corriente:0.0:Premium:0.0:Ultra:0.0
-surtidor:Carlos:Grado medio:0.0:Corriente:0.0:Premium:0.0:Ultra:0.0
-empleado:Andres:0
-empleado:Alejandro:0
-empleado:Juan:0
-empleado:Carlos:0
+tipo:Grado medio:15000:65.93333333333334
+tipo:Corriente:12000:93.08333333333333
+tipo:Premium:20000:5.0
+tipo:Ultra:25000:0.0
+surtidor:Juan:Grado medio:3.066666666666667:Corriente:0.0:Premium:30.0:Ultra:0.0
+surtidor:Alejandro:Grado medio:0.0:Corriente:6.916666666666666:Premium:0.0:Ultra:0.0
+surtidor:Andres:Grado medio:1.0:Corriente:0.0:Premium:15.0:Ultra:0.0
+surtidor:Carlos:Grado medio:0.0:Corriente:0.0:Premium:0.0:Ultra:50.0
+empleado:Andres:315000
+empleado:Alejandro:83000
+empleado:Juan:646000
+empleado:Carlos:1250000
 empleado:Julian:0
